@@ -1,4 +1,4 @@
-# sgRNA_OnTargetEfficiency_HAMP
+# Predicting sgRNA efficiency
 
 ## Background 
 As the precision medicine revolution makes its way out of academia towards the clinic, Clustered regularly interspaced
