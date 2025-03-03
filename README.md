@@ -1,4 +1,4 @@
-# Predicting sgRNA efficiency
+# Predicting sgRNA efficiency using Deep Learning
 
 ## Background 
 As the precision medicine revolution makes its way out of academia towards the clinic, Clustered regularly interspaced
